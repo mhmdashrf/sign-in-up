@@ -1,0 +1,21 @@
+@media (max-width: 800px) {
+    .main-header{   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .main-header p{
+        font-size: 17px;
+     }
+     .main-header li{
+        font-size: 15px;
+
+     }
+     .footer div{
+        font-size: 4px;
+     }
+     .footer p{
+        font-size: 26px;
+     }
+}

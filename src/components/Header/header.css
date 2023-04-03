@@ -1,0 +1,33 @@
+.myheader{
+    background-color: black;
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+  }
+  .main-header{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  ul{
+    display: flex;
+  }
+  ul li{
+    padding:0 30px;
+    font-size: 20px;
+    list-style: none;
+    font-weight: bold;
+  }
+  h2{
+    padding: 0;
+    margin: 0;
+    font-size:40px;
+  }
+  .main-link{
+  }
+  .main-link:hover{
+    background-color:cyan;
+    box-shadow: 0 0 5px cyan;
+    border-radius: 5px;
+
+  }
